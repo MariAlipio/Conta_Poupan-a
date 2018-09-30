@@ -1,0 +1,11 @@
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\bin\Debug\netcoreapp2.1\CONTAPOUPANCA.deps.json
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\bin\Debug\netcoreapp2.1\CONTAPOUPANCA.runtimeconfig.json
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\bin\Debug\netcoreapp2.1\CONTAPOUPANCA.runtimeconfig.dev.json
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\bin\Debug\netcoreapp2.1\CONTAPOUPANCA.dll
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\bin\Debug\netcoreapp2.1\CONTAPOUPANCA.pdb
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\obj\Debug\netcoreapp2.1\CONTAPOUPANCA.csprojAssemblyReference.cache
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\obj\Debug\netcoreapp2.1\CONTAPOUPANCA.csproj.CoreCompileInputs.cache
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\obj\Debug\netcoreapp2.1\CONTAPOUPANCA.AssemblyInfoInputs.cache
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\obj\Debug\netcoreapp2.1\CONTAPOUPANCA.AssemblyInfo.cs
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\obj\Debug\netcoreapp2.1\CONTAPOUPANCA.dll
+D:\ADS\Praticas de programação\CONTAPOUPANCA\CONTAPOUPANCA\obj\Debug\netcoreapp2.1\CONTAPOUPANCA.pdb
